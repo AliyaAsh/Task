@@ -1,0 +1,57 @@
+﻿  Source.cpp
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,53): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,53): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,53): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,53): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,53): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,42): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,42): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,42): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,42): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(153,42): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,53): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,53): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,53): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,53): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,53): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,42): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,42): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,42): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,42): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(154,42): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(156,56): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(156,56): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(156,56): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(156,56): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(156,56): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(157,37): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(157,37): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(157,37): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(157,37): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(157,37): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(159,55): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(159,55): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(159,55): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(159,55): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(159,55): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(160,36): warning C4244: =: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(160,36): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(160,36): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(160,36): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(160,36): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,80): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,80): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,80): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,80): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,80): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,59): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,59): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,59): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,59): warning C4244:             T=float
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(210,59): warning C4244:         ]
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(301,75): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(301,75): warning C4244:         with
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(301,75): warning C4244:         [
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(301,75): warning C4244:             T=unsigned int
+C:\Users\Acer\Desktop\udgu\Project1\Source.cpp(301,75): warning C4244:         ]
+  Project1.vcxproj -> C:\Users\Acer\Desktop\udgu\Project1\x64\Debug\Project1.exe
