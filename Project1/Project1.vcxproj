@@ -135,13 +135,16 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="assets\bitmaps\diamond.png" />
     <Image Include="assets\bitmaps\Door.bmp" />
     <Image Include="assets\bitmaps\empty.bmp" />
     <Image Include="assets\bitmaps\Man.bmp" />
     <Image Include="assets\bitmaps\Man.png" />
+    <Image Include="assets\bitmaps\mine.png" />
     <Image Include="assets\bitmaps\money.bmp" />
     <Image Include="assets\bitmaps\sack.bmp" />
     <Image Include="assets\bitmaps\score.png" />
+    <Image Include="assets\bitmaps\time.png" />
     <Image Include="assets\bitmaps\timer.png" />
     <Image Include="assets\bitmaps\wall.bmp" />
   </ItemGroup>
